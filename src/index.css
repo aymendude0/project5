@@ -245,6 +245,13 @@ h2 {
    align-items: center;
  }
 
+.main
+p {
+  font-size: 20px;
+  width: 60%;
+  padding: 20px;
+}
+
  .buttonClass {
   width: 200px ;
 }
